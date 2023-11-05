@@ -7,4 +7,4 @@ https://www.w3schools.com/
 
 ## - Humata.ai
 explore textos e estude artigos científicos MUITO mais rápido. 
-https://humata.ai/
+https://app.humata.ai/
